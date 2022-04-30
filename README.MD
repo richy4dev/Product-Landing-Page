@@ -1,1 +1,1 @@
-This is a personal portfolio collaborative project with Richard and Amol.
+This is a personal portfolio collaborative project with Richard and Rehmet.
